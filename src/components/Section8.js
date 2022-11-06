@@ -11,7 +11,7 @@ const potraits = Array(6)
   .map((_, index) => ({ url: `/images/fina/${index + 1}.JPG` }));
 const landscape = Array(5)
   .fill('')
-  .map((_, index) => ({ url: `/images/fina/_${index + 1}.JPG` }));
+  .map((_, index) => ({ url: `/images/fina/_${index + 1}.${index + 1 === 4 ? 'jpg' : 'JPG'}` }));
 
 const Section8 = () => {
   const [index1, setIndex1] = React.useState(-1);
