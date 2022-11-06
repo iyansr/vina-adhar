@@ -19,11 +19,11 @@ const OVERLAY_STYLES = {
 
 const images = [
   {
-    url: '/images/fina/3.jpg',
+    url: '/images/fina/3.JPG',
   },
 
   {
-    url: '/images/fina/6.jpg',
+    url: '/images/fina/6.JPG',
   },
 ];
 

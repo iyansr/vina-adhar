@@ -28,27 +28,27 @@ const story = [
     year: '2012',
     description:
       'Kisah ini berawal tahun 2016 saat itu kami berkenalan lewat medsos yaitu instagram dan sepanjang perkenalan tenyata dia kakak kelas saya di sma 5 kendari dan kami bertemu di salah satu cafe yang berada dikota kendari ',
-    image: '/images/fina/_3.jpg',
+    image: '/images/fina/_3.JPG',
   },
   {
     title: 'Relationship',
     year: '06 Maret 2019',
     description:
       'Kemudian, di awal tahun 2017 kami menjalin hubungan yang penuh suka, duka dan lika liku hubungan kami dan kami ldr selama 6 tahun dan kembali bertemu setelah loct contact selama 2 tahun',
-    image: '/images/fina/_4.jpg',
+    image: '/images/fina/_4.JPG',
   },
   {
     title: 'Melamar',
     year: '22 Juli 2022',
     description:
       'Setelah kenal beberapa tahun kami memutuskan untuk berkomitmen ke jenjang yang lebih serius dimana Tanggal 25 september 2022 kami mengadakan acara pelamaran yang di saksikan oleh keluarga besar kami berdua ',
-    image: '/images/fina/_5.jpg',
+    image: '/images/fina/_5.JPG',
   },
   {
     title: 'Melamar',
     year: '22 Juli 2022',
     description: 'Hingga diputuskanlah akad nikah kami pada tanggal 13 november 2022 ',
-    image: '/images/fina/_1.jpg',
+    image: '/images/fina/_1.JPG',
   },
 ];
 
