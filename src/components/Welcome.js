@@ -102,7 +102,7 @@ export default function Welcome({}) {
                               fontFamily: 'Hendycroft Signature',
                             }}
                           >
-                            Fina {'&'} Adhar
+                            Vina {'&'} Adhar
                           </h1>
 
                           <p className="text-sm my-4">13 November 2022</p>

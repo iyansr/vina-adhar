@@ -30,8 +30,8 @@ const Section3 = () => {
           <div className="text-center mt-8" data-aos="fade-right">
             <img src="/images/fina/adhar.png" alt="Adhar" className="h-40 mx-auto" />
             <p className="font-bold mt-2">Briptu Adhar</p>
-            <p className="text-sm">Anak Pertama dari Bapak Haji Juddin </p>
-            <p className="text-sm">dan Ibu Haji Baheriah</p>
+            <p className="text-sm">Anak Pertama dari Bapak H. Juddin </p>
+            <p className="text-sm">dan Ibu Hj. Baheriah</p>
           </div>
 
           <p
