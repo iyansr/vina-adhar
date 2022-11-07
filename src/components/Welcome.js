@@ -19,7 +19,7 @@ const OVERLAY_STYLES = {
 
 const images = [
   {
-    url: '/images/fina/3.JPG',
+    url: '/images/fina/2.JPG',
   },
 
   {
