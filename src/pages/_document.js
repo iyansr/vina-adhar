@@ -27,7 +27,7 @@ export default function Document() {
         <meta name="description" content="We are getting married 💜" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Wedding of Iyan & Isty 💜" />
+        <meta property="og:title" content="Wedding of Vina & Adhar 💜" />
         <meta property="og:description" content="We are getting married 💜" />
         <meta property="og:image" content="https://i.ibb.co/SwpYncY/3.jpg" />
 
