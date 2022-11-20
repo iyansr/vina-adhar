@@ -3,7 +3,7 @@ import { Howl } from 'howler';
 
 const AppContext = React.createContext();
 
-const src = 'https://audio.jukehost.co.uk/ia2gozurqmDTeoP4jqzzsiPPFs1CFX4q';
+const src = 'https://audio.jukehost.co.uk/ia2gozurqmDTeoP4jqzzsiPPFs1CFX4q.mp3';
 
 const AppContextProvider = ({ children }) => {
   const [playing, setPlaying] = useState(false);
